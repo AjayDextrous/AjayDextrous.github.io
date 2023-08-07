@@ -85,8 +85,8 @@ author:
   bio              : "Student of Robotics, Cognition, Intelligence at TU Munich, and Professional Android Developer"
   location         : "Munich, Germany"
   employer         : Quartett Mobile
-  pubmed           : "" #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "" #"http://yourfullgooglescholarurl.com"
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :  #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
