@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: #"Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,7 +14,7 @@ Education
 * B.Tech in Electrical and Electronics Engineering, College of Engineering Trivandrum, 2017
 * M.S. in Robotics, Cognition, Intelligence, Technical University of Munich, (Ongoing)
 
-Work experience
+Work Experience
 ======
 * 2022 - Present: Werkstudent
   * Quartett Mobile
@@ -26,7 +26,7 @@ Work experience
 * 2017 - 2022: Member of Technical Staff
   * Zoho Corporation
   * Chennai, India
-  * Portifolio: Android Development
+  * Portifolio: Android Developer
   * At Zoho, I worked as an Android developer in charge of reports and base modules for Zoho Creator, a low code
 application development platform for small and medium businesses. As part of the Android team, I worked on
 migration of the app to a viewmodel based architecture, and also worked on migration of the codebase from Java
@@ -74,7 +74,8 @@ Skills
 * Mobile Development - Java, Kotlin, Flutter
 * Python, Bash, Basic C & C++
 * Machine Learning, CV with Pytorch, Tensorflow
-* Basic web development skills - HTML, CSS, Javascript; Has worked with PHP, React, Express etc.
+* Basic web development skills - HTML, CSS, Javascript/Typescript; Has worked with PHP, React, Express.
+* UI/UX Prototyping in Figma
 
 <!-- Publications
 ======
