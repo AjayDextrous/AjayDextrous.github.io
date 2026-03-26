@@ -1,0 +1,9 @@
+_site/
+node_modules/
+.bundle/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+*.gem
+**/.DS_Store
+CLAUDE.md

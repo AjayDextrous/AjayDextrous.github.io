@@ -20,14 +20,27 @@
   "engines": {
     "node": ">= 0.10.0"
   },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "6.4.0",
+    "bootstrap": "4.0.0-alpha.2"
+  },
   "devDependencies": {
     "npm-run-all": "^1.7.0",
     "onchange": "^2.2.0",
-    "uglify-js": "^2.6.1"
+    "uglify-js": "^2.6.1",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.62.1",
+    "phantomjs-prebuilt": "^2.1.16"
   },
   "scripts": {
     "uglify": "uglifyjs assets/js/vendor/jquery/jquery-1.12.4.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.smooth-scroll.min.js assets/js/plugins/stickyfill.min.js assets/js/_main.js -c -m -o assets/js/main.min.js",
     "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
-    "build:js": "npm run uglify"
+    "build:js": "npm run uglify",
+    "build:css": "gulp",
+    "build:page": "./cv/build-page.sh",
+    "watch:css": "gulp watch",
+    "build:pdf": "./toPDF.sh",
+    "build": "npm run build:page && npm run build:css && bundle exec jekyll build && npm run build:pdf && cp files/Ajay_Narayanan.pdf _site/files/Ajay_Narayanan.pdf"
   }
 }

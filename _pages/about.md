@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ajay Narayanan! I am a student at the Technical University of Munich studying Robotics, Cognition, Intelligence. I have a passion for using technology to solve real-world problems and improve people's lives.
+Hi, I'm Ajay Narayanan! I have 8+ years of experience developing and maintaining Android applications, working with diverse teams across 2 countries. I recently completed my M.Sc. in Robotics, Cognition, Intelligence at the Technical University of Munich, specialising in machine learning with an emphasis on natural language processing.
 
-In addition to my studies, I have extensive experience as an Android Developer, with a focus on creating seamless and intuitive user experiences. My technical interests include Machine Learning, Computer Vision, and Deep Learning, and I am always seeking new opportunities to expand my knowledge and skills in these areas.  I am also interested in entrepreneurship and startups, and am always looking for like minded people :)
+I'm currently an Android Developer at Quartett Mobile in Munich, where I work on the communication framework used by Audi, Porsche, Volkswagen, and other car brands. Previously I spent nearly 5 years at Zoho Corporation in Chennai as part of the Zoho Creator team, where I took ownership of the Reports and Base modules and worked on large-scale modularisation, Java-to-Kotlin migration, and performance improvements.
 
-Outside of my technical pursuits, I am an active and well-rounded individual with a variety of interests. I enjoy performing improv comedy, playing basketball, listening to podcasts, and hiking, to name just a few. These activities allow me to stay engaged and have fun, and I believe that having a strong balance between work and play is essential for a fulfilling life.
+On the research side, my thesis focused on the construction and evaluation of constructed languages using LLMs, and I've done work on graph-based problem solving with LLMs and multi-hop reading comprehension using Graph Neural Networks.
 
-If you're looking for someone with a strong technical background and a passion for problem-solving, I would love the opportunity to connect. Thank you for visiting my site, and I hope to hear from you soon!
+I love working on interesting problems and building products that people love to use. I always strive to take ownership of the work I do, and I enjoy taking on leadership roles outside of work too. I'm always looking for opportunities to work with people and companies who are passionate about what they do.
+
+Outside of tech, I like to do Improv comedy, and play badminton and volleyball.
