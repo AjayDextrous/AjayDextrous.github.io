@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ajay Narayanan"
   avatar           : "profile_1.jpeg"
-  bio              : "Student of Robotics, Cognition, Intelligence at TU Munich, and Professional Android Developer"
+  bio              : "Android Developer"
   location         : "Munich, Germany"
   employer         : Quartett Mobile
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,7 +99,7 @@ author:
   github           : "AjayDextrous"
   google_plus      :
   keybase          :
-  instagram        : "ajay_so_awesome"
+  instagram        : #"ajay_so_awesome"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
